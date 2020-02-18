@@ -2,9 +2,9 @@
 
 ### Tentative 10 week schedule <br> 
 week01: project planning and setup (github, irb)<br>
-week02: literature review and competitor research <br>
-week03: refine the research question + design problem statement, start user resesarch planning and scheduling <br>
-week04: user research and contextual inquiry <br>
+week02: [literature review and competitor research](https://docs.google.com/document/d/1fg1xvZ9gfGUsIdADOm-POWDxM-_uY4T-OgzNscyQnMs/edit?usp=sharing) <br>
+week03: refine the [research question + design problem statement](https://docs.google.com/document/d/158vgvnY-Nyu-D8XuZ0Etx58Tfn54GrtqJUFDNn7bVSo/edit), start user research planning and scheduling <br>
+week04: [user/interview research](https://docs.google.com/document/d/1TcNJUbnh6tF9wT0arGuj3yLwtlVybZkrqIpLTxb_kS0/edit) and contextual inquiry <br>
 week05: persona + scenario + wireframe and wireflow <br>
 week06: low fidelity prototype <br>
 week07: high fidelity prototype <br>
