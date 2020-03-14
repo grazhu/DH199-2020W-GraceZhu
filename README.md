@@ -6,9 +6,9 @@ week01: project planning and setup (github, irb)<br>
 week02: [literature review and competitor research](https://docs.google.com/document/d/1fg1xvZ9gfGUsIdADOm-POWDxM-_uY4T-OgzNscyQnMs/edit?usp=sharing) <br>
 week03: refine the [research question + design problem statement](https://docs.google.com/document/d/158vgvnY-Nyu-D8XuZ0Etx58Tfn54GrtqJUFDNn7bVSo/edit), start user research planning and scheduling <br>
 week04: [user/interview research](https://docs.google.com/document/d/1TcNJUbnh6tF9wT0arGuj3yLwtlVybZkrqIpLTxb_kS0/edit) and contextual inquiry <br>
-week05: [persona + scenario + wireframe and wireflow] (https://drive.google.com/open?id=16UT09KZPbHU0ixu5HrQlg7w0SHm6_0rk) <br>
-week06: [low fidelity prototype] (https://www.figma.com/file/f1Bh8a4LQm8qNUBgoKt0EM/DH199---Low-Fidelity-Prototype?node-id=0%3A1) <br>
-week07: [high fidelity prototype] (https://www.figma.com/file/11ylFkmukF7KhjeBgkz66g/DH199---High-Fidelity-Prototype) <br>
+week05: [persona + scenario + wireframe and wireflow](https://drive.google.com/open?id=16UT09KZPbHU0ixu5HrQlg7w0SHm6_0rk) <br>
+week06: [low fidelity prototype](https://www.figma.com/file/f1Bh8a4LQm8qNUBgoKt0EM/DH199---Low-Fidelity-Prototype?node-id=0%3A1) <br>
+week07: [high fidelity prototype](https://www.figma.com/file/11ylFkmukF7KhjeBgkz66g/DH199---High-Fidelity-Prototype) <br>
 week08: usability testing and user testing <br>
 week09: documentation <br>
 week10: presentation <br> <br> 
